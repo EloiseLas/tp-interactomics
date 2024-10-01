@@ -145,7 +145,7 @@ A l'aide des données MITAB et de la librarie [networkx](https://networkx.github
 
 - les arêtes relient deux protéines en interaction
 
-![Graphique](ebv_ebv_network_uniprot.png)
+![Graphique](graph.png)
 
 ##### Décrivez brièvement ce réseau
 
